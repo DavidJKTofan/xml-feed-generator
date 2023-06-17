@@ -58,7 +58,7 @@ wrangler config
 2. Build and publish the project to Cloudflare Workers:
 
 ```
-npm deploy
+npm run deploy
 ```
 
 Or alternatively:
